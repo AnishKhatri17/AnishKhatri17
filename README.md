@@ -28,13 +28,11 @@ I'm a passionate developer with a knack for building practical web applications.
 
 ## 📊 GitHub Stats
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkhatri&show_icons=true&theme=radical)
+![Anish Khatri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnishKhatri17&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anishkhatri&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnishKhatri17&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishkhatri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anish's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=anishkhatri&theme=react-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKhatri17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Projects
 
