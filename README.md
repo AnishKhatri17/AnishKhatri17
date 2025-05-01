@@ -1,5 +1,7 @@
 # Hi there, I'm Anish Khatri 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=%22BCA+Student+%7C+Tech+Learner%22;%22Exploring+Information+Technology%22;%22Junior+Software+Developer%22;%22Always+thriving+to+learn%22&shadow=true)](https://git.io/typing-svg)
+
 ## 💻 Junior Software Developer | 🎓 Bachelor's Student at Tribhuvan University
 
 I'm a passionate developer with a knack for building practical web applications. Currently working as a Junior Software Developer at Sarbottam Steels Company Ltd, specializing in PHP Laravel backend development.
